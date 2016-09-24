@@ -34,3 +34,4 @@ Treasure contest
 
 ## My Resume
 ![Preview](https://everomle.github.io/portfolio/resume_preview.png)
+![alt tag](https://everomle.github.io/portfolio/resume_preview.png)
