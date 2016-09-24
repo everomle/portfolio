@@ -33,4 +33,4 @@ Treasure contest
 
 
 ## My Resume
-[embed]https://everomle.github.io/portfolio/resume_evelyn_roman_leiton.pdf[/embed]
+![Preview](https://everomle.github.io/portfolio/resume_evelyn_roman_leiton.pdf)
