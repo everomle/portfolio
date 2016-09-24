@@ -17,3 +17,16 @@ An example about how to change the site background, the background is stored as 
 Bingo Balls Animation  *(HTML+CSS+JS)*
 * **Code** https://github.com/everomle/portfolio/tree/master/bingo-balls-animation
 * **Preview** https://everomle.github.io/portfolio/bingo-balls-animation/
+
+Fortune Cookies
+* **Code** https://github.com/everomle/portfolio/tree/master/fortuneCookie
+* **Preview** https://everomle.github.io/portfolio/fortuneCookie
+
+Main Glyphicon
+* **Code** https://github.com/everomle/portfolio/tree/master/main-glyphicon
+* **Preview** https://everomle.github.io/portfolio/main-glyphicon/
+
+
+Treasure contest
+* **Code** https://github.com/everomle/portfolio/tree/master/treasureContest
+* **Preview** https://everomle.github.io/portfolio/treasureContest
