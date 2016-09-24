@@ -30,3 +30,7 @@ Main Glyphicon
 Treasure contest
 * **Code** https://github.com/everomle/portfolio/tree/master/treasureContest
 * **Preview** https://everomle.github.io/portfolio/treasureContest
+
+
+## My Resume
+[embed]https://everomle.github.io/portfolio/resume_evelyn_roman_leiton.pdf[/embed]
