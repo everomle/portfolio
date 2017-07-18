@@ -6,6 +6,10 @@ The idea behind this repository is to provide some examples about shippets, smal
 
 ## Responsive example
 
+Calendario
+* **Code** https://github.com/everomle/portfolio/tree/master/CALENDARIO
+* **Preview** https://everomle.github.io/portfolio/CALENDARIO
+
 This is a responsive design example  *(HTML+CSS)*
 * **Code** https://github.com/everomle/portfolio/tree/master/network-responsive
 * **Preview** https://everomle.github.io/portfolio/network-responsive/
